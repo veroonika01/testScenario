@@ -8,7 +8,7 @@
 
 ### Testovacie kroky##
 
-1. ** Prihlásenie používateľa**
+1. **Prihlásenie používateľa**
 - Otvorenie prehliadača a navigácia  na URL [https://www.saucedemo.com/inventory.html]
 - Zadanie používateľského mena a hesla a kliknutie na tlačidlo "Login"
 
@@ -16,7 +16,7 @@
 2. **Zobrazenie produktov na stránke**
 - Na Homepage sa užívateľoví zobrazí ponuka produktov s uvedeným názvom,krátkym popisom produktu, cenou a možnosťou kliknúť na  tlačidlo "Add to Cart"
 
-2. ** Pridanie tovaru do nákupného košíka"
+2. **Pridanie tovaru do nákupného košík**
 - Používateľ klikne na tlačídlo "Add to card" prislúchajúce k zvolenému produktu, ktoré sa zmení na  "Remove"
 - ikona nákupného košíka v pravom hornom rohu sa zmení a zobrazí počet pridaných produktov do košíka
 
